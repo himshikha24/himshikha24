@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himshikha24
-- 👀 I’m interested in python coding
-- 🌱 I’m currently working in TCS on Machine Learning Project for Shell and always intressted to exchange the knowledge with others.
+- 👀 Always Intrested in Data Science Problem Solving approach. Along with Gen AI Projects  
+- 🌱 I’m currently working in TCS on Data scientist role and always intressted to exchange the knowledge with others.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through linkedIn 
 
